@@ -1,0 +1,13 @@
+steps:
+  integrationArtifactDeploy:
+    cpiApiServiceKeyCredentialsId: aditya.ai.singh@accenture.com
+    integrationFlowId: flow4
+  integrationArtifactGetMplStatus:
+    cpiApiServiceKeyCredentialsId: aditya.ai.singh@accenture.com
+    integrationFlowId: flow4
+  integrationArtifactUpload:
+    cpiApiServiceKeyCredentialsId: aditya.ai.singh@accenture.com
+    integrationFlowId: flow4
+    integrationFlowName: flow4
+    packageId: CICD
+    filePath: flow4.zip

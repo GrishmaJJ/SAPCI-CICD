@@ -1,4 +1,5 @@
-@Library('my-shared-library@1.0') _
+@Library('piper-lib-os') _
+
 
 
 node() {

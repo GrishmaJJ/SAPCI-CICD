@@ -1,13 +1,4 @@
 steps:
   integrationArtifactDeploy:
     cpiApiServiceKeyCredentialsId: CPI
-    integrationFlowId: flow4
-  integrationArtifactGetMplStatus:
-    cpiApiServiceKeyCredentialsId: CPI
-    integrationFlowId: flow4
-  integrationArtifactUpload:
-    cpiApiServiceKeyCredentialsId: CPI
-    integrationFlowId: flow4
-    integrationFlowName: flow4
-    packageId: CICD
-    filePath: flow4.zip
+    integrationFlowId: Flow1
